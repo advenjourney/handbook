@@ -1,5 +1,8 @@
 # What is our stack ??
 
+## Marketing Analytics
+- Mautic, https://www.mautic.org/
+
 ## Design / UX
 - Figma, https://www.figma.com/ @LukasHirt
 
