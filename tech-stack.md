@@ -7,7 +7,7 @@
 - Organisation: https://www.figma.com/@advenjourney
 - Team: @LukasHirt
 
-For collaborative creation of design for our platform, we're using [Figma](https://www.figma.com). You can take a look at the current state in [here](https://www.figma.com/files/project/22290834/Novaturient). If you'd be interested in gaining edit rights, please, reach out to @LukasHirt (lukas@advenjourney.com). Feel free to copy the project and propose some changes even without edit rights.
+For collaborative creation of design for our platform, we're using [Figma](https://www.figma.com). Our designs are split into two projects - [Website](https://www.figma.com/files/project/22302465/Website) and [Mobile](https://www.figma.com/files/project/22290834/Mobile). If you'd be interested in gaining edit rights, please, reach out to @LukasHirt (lukas@advenjourney.com). Feel free to copy the project and propose some changes even without edit rights.
 
 ## Docs
 - Markdown @FelixBoehm
