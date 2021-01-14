@@ -4,7 +4,8 @@
 - Mautic, https://www.mautic.org/
 
 ## Design / UX
-- Maintainers: @LukasHirt
+- Organisation: https://www.figma.com/@advenjourney
+- Team: @LukasHirt
 
 For collaborative creation of design for our platform, we're using [Figma](https://www.figma.com). You can take a look at the current state in [here](https://www.figma.com/files/project/22290834/Novaturient). If you'd be interested in gaining edit rights, please, reach out to @LukasHirt (lukas@advenjourney.com). Feel free to copy the project and propose some changes even without edit rights.
 
@@ -14,8 +15,8 @@ For collaborative creation of design for our platform, we're using [Figma](https
 
 
 ## Frontend
-- Repo: https://github.com/advenjourney/novaturient
-- Maintainers: @LukasHirt @FelixBoehm
+- Repository: https://github.com/advenjourney/novaturient
+- Team: @LukasHirt @FelixBoehm
 
 ### Web and mobile
 Our frontend is built with [Vue.js](https://vuejs.org/) for both native mobile apps (thanks to [Nativescript](https://nativescript-vue.org/)) and web.
