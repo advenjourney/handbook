@@ -32,6 +32,9 @@ Additional technologies are [Vuex](https://vuex.vuejs.org/) for global state and
 If you're interested in contributing to frontend, please, refer to the [readme of our frontend repository](https://github.com/advenjourney/novaturient/blob/main/README.md).
 
 ## Backend
+Our backend is is written in golang and implements a Graphql API for our clients.
+For data persistence we use mariadb. All ouf our services are containerized for easier handling and avoidance of dependency hells. Changes of our database layout are managed with migrations that depend on graphql generated api schemes. Code contibutions can be made by pull request.
+
 - Go
   - Project Layout https://github.com/golang-standards/project-layout
   - configuration [viper](github.com/spf13/viper)
@@ -39,8 +42,7 @@ If you're interested in contributing to frontend, please, refer to the [readme o
 - GraphQL https://graphql.org/
 
 ## CI/CD
-- Github Actions
-- Drone ??
+We build containers with github actions that we push to dockerhub. Those images are then depoyed int a development cluster running microk8s. The cluster is set up with terraform and ansible in a cloud environment. Terraform and ansible are github actions automated as well.
 
 ## Microservice design considerations
 - [Hexagonal Architecture](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
