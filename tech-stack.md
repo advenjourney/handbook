@@ -4,7 +4,9 @@
 - Mautic, https://www.mautic.org/
 
 ## Design / UX
-- Figma, https://www.figma.com/ @LukasHirt
+- Maintainers: @LukasHirt
+
+For collaborative creation of design for our platform, we're using [Figma](https://www.figma.com). You can take a look at the current state in [here](https://www.figma.com/files/project/22290834/Novaturient). If you'd be interested in gaining edit rights, please, reach out to @LukasHirt (lukas@advenjourney.com). Feel free to copy the project and propose some changes even without edit rights.
 
 ## Docs
 - Markdown @FelixBoehm
