@@ -36,3 +36,7 @@
 - Terraform for VM Provisioning
 - Ansible for Host Config Management
 - microk8s as dev orchestration runtime
+
+## Pairing
+- Git Life for vs code, https://marketplace.visualstudio.com/items?itemName=TeamHub.teamhub
+- Life share, https://visualstudio.microsoft.com/de/services/live-share/ Interoperable between VS Code and all JetBrains IDEs
